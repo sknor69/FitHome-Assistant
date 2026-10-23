@@ -1,1 +1,42 @@
-
+[
+  {
+    "id": 1,
+    "nome": "Agachamento Livre (Bodyweight Squat)",
+    "grupo_muscular": "Pernas e Glúteos",
+    "nivel": "Iniciante",
+    "equipamento": "Nenhum (Peso corporal)",
+    "descricao": "Mantenha os pés na largura dos ombros, desça o quadril flexionando os joelhos como se fosse sentar em uma cadeira, mantendo o peito aberto e a coluna alinhada."
+  },
+  {
+    "id": 2,
+    "nome": "Flexão de Braços na Parede ou Joelhos",
+    "grupo_muscular": "Peito, Ombros e Tríceps",
+    "nivel": "Iniciante",
+    "equipamento": "Nenhum (Peso corporal)",
+    "descricao": "Apoie as mãos na parede (ou no chão com os joelhos apoiados). Flexione os braços aproximando o tronco, mantendo o abdômen contraído."
+  },
+  {
+    "id": 3,
+    "nome": "Afundo (Lunges)",
+    "grupo_muscular": "Pernas e Equilíbrio",
+    "nivel": "Intermediário",
+    "equipamento": "Nenhum (Peso corporal)",
+    "descricao": "Dê um passo à frente e flexione ambos os joelhos em um ângulo de 90 graus, descendo o corpo verticalmente sem deixar o joelho de trás tocar o chão."
+  },
+  {
+    "id": 4,
+    "nome": "Prancha Abdominal (Plank)",
+    "grupo_muscular": "Core / Abdômen",
+    "nivel": "Iniciante",
+    "equipamento": "Nenhum (Peso corporal)",
+    "descricao": "Apoie os antebraços no chão e a ponta dos pés. Mantenha o corpo totalmente alinhado (como uma prancha) contraindo o abdômen e os glúteos por tempo determinado."
+  },
+  {
+    "id": 5,
+    "nome": "Ponte para Glúteos (Glute Bridge)",
+    "grupo_muscular": "Glúteos e Lombar",
+    "nivel": "Iniciante",
+    "equipamento": "Nenhum (Peso corporal)",
+    "descricao": "Deitado de costas com os joelhos flexionados e os pés apoiados no chão, eleve o quadril contraindo os glúteos no topo, formando uma linha reta dos ombros aos joelhos."
+  }
+]
